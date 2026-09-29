@@ -1,9 +1,9 @@
 runpod>=1.7.0
-diffusers>=0.30.0
-transformers>=4.44.0
-accelerate>=0.33.0
+diffusers==0.31.0
+transformers==4.46.3
+accelerate==1.1.1
+huggingface_hub==0.26.2
 safetensors
-huggingface_hub
-hf_transfer
 Pillow
 requests
+numpy<2
