@@ -6,3 +6,4 @@ safetensors
 huggingface_hub
 hf_transfer
 Pillow
+requests
